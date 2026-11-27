@@ -19,10 +19,7 @@ function About() {
                         <h3 className="about-heading">Developer by profession, lifelong learner by passion.
                         </h3>
                         <p className="about-text">
-                            I'm Rehan Sheikh, a developer interested in building useful,
-                                reliable web applications. Add a few details here about your
-                                experience, the technologies you use, and the kinds of problems
-                                you enjoy solving.
+                           I'm Rehan Sheikh, a full stack developer who builds web applications with React, Java, and Spring Boot. I enjoy turning ideas into clear, reliable products and solving practical problems through thoughtful design and code.
                         </p>
 
                         <p className="about-text">

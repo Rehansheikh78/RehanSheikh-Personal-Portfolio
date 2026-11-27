@@ -1,5 +1,6 @@
 import projectImageThumbnail6  from '../images/thumbnail6.jpg';
 import '../styles/Projects.css';
+import projectImageThumbnail7  from '../images/automatic-toll-collection-500x500.jpg';
 
 function Projects() {
   return (
@@ -34,17 +35,17 @@ function Projects() {
 
                     <div className="project-content">
                         <h3 className="project-title">
-                        Build REST APIs with ReactJs and Spring Boot
+                        Employee Management system - with ReactJs and Spring Boot
                         </h3>
 
                         <p className="project-description">
                         Learn to create production-grade REST APIs that connect to a MySQL
-                        database through JPA and Hibernate.
+                        database through Data JPA.
                         </p>
 
                         <div className="project-links">
                         <a
-                            href="https://github.com/Rehansheikh78/Java-Project"
+                            href="https://github.com/Rehansheikh78/Employee-Management-System"
                             className="project-link"
                             target="_blank"
                             rel="noreferrer"
@@ -58,35 +59,32 @@ function Projects() {
                     </div>
                 <div className="project-card">
                     <div className="project-image">
-                        <img src={projectImageThumbnail6} alt="Course project thumbnail" />
+                        <img src={projectImageThumbnail7} alt="Course project thumbnail" />
                         <div className="project-overlay">
                             
                         </div>
 
                         <div className="project-tags">
-                        <span className="project-tag">Spring Boot</span>
-                        <span className="project-tag">Spring Security</span>
-                        <span className="project-tag">Data JPA</span>
-                        <span className="project-tag">MySQL</span>
-                        <span className="project-tag">AWS</span>
-                        <span className="project-tag">MongoDB</span>
+                        <span className="project-tag">AngularJs</span>
+                        <span className="project-tag">ExpressJs</span>
+                        <span className="project-tag">Cors</span>
                         <span className="project-tag">Postman</span>
                         </div>
                     </div>
 
                     <div className="project-content">
                         <h3 className="project-title">
-                        Build REST APIs with Spring and Spring Boot
+                        Toll Management with Angular and Express
                         </h3>
 
                         <p className="project-description">
-                        Learn to create production-grade REST APIs that connect to a MySQL
-                        database through JPA and Hibernate.
+                        This project is a Toll Management System that allows users to manage 
+                        toll collection and vehicle information.
                         </p>
 
                         <div className="project-links">
                         <a
-                            href="https://github.com/Rehansheikh78/Java-Project"
+                            href="https://github.com/Rehansheikh78/Toll-Plaza-management"
                             className="project-link"
                             target="_blank"
                             rel="noreferrer"
